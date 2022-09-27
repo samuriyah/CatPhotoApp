@@ -1,6 +1,6 @@
 # CatPhotoApp
 Learn HTML by building a Cat Photo App
-
+<!---
 Step 1
 HTML elements have opening tags like <h1> and closing tags like </h1>.
 The text for an element goes between its opening and closing tags.
@@ -12,8 +12,8 @@ Step 3
 The p element is used to create a paragraph of text on websites.
 
 Step 4
-Commenting allows you to leave messages without affecting the browser display. It also allows you to make code inactive. A comment in HTML starts with <!--, contains any number of lines of text, and ends with -->. For example, the comment <!-- TODO: Remove h1 --> contains the text TODO: Remove h1.
-
+Commenting allows you to leave messages without affecting the browser display. It also allows you to make code inactive. A comment in HTML starts with <!--, contains any number of lines of text, and ends with -->". For example, the comment <!-- TODO: Remove h1 --> contains the text TODO: Remove h1.
+<!--->
 Step 5
 HTML5 has some elements that identify different content areas. These elements make your HTML easier to read and help with Search Engine Optimization (SEO) and accessibility.
 ((Identify the main section of this page by adding a <main> opening tag after the h1 element, and a </main> closing tag after the p element.))
@@ -323,3 +323,5 @@ Add this declaration as the first line of the code.
 
 Step 69Passed
 One more thing. You should allow people to use their native language. Tell the browser to encode multiple languages by adding a meta element as a child of the head element. Set its charset attribute to UTF-8.
+
+-->
